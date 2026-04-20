@@ -1,0 +1,398 @@
+{
+  "Profiles": [
+    {
+      "RaiderName": "Kaali|Jannek",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 5,
+      "Slots": {
+        "neck": "MN_S1_Crown of the Cosmos_EwigeLeerenliedkette_LFR",
+        "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
+        "trinket2": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
+        "weapon": "MN_S1_Midnight Falls (L\u0027ura)_LichtloseKlage_LFR"
+      }
+    },
+    {
+      "RaiderName": "Snike|Nils",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 0,
+      "Slots": {
+        "ring1": "MN_S1_Vorasius_SignetderhungerndenBestie_LFR",
+        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
+        "trinket2": "MN_S1_Vaelgor \u0026 Ezzorak_D\u00FCsternisgesprenkeltesSchreckensmaul_LFR",
+        "weapon": "MN_S1_Vorasius_UnausweichlicheReichweite_LFR"
+      }
+    },
+    {
+      "RaiderName": "Syda|Franzi",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 5,
+      "Slots": {
+        "neck": "MN_S1_Midnight Falls (L\u0027ura)_AmulettderabyssischenHymne_LFR",
+        "ring1": "MN_S1_Vorasius_SignetderhungerndenBestie_LFR",
+        "ring2": "MN_S1_Belo\u0027ren, the Void Phoenix_HoffnungsbandderSindorei_LFR",
+        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
+        "trinket2": "MN_S1_Crown of the Cosmos_StoffbanddesRaumg\u00E4ngers_LFR",
+        "weapon": "MN_S1_Imperator Averzian_GewichtdesKommandos_LFR"
+      }
+    },
+    {
+      "RaiderName": "Passiona|Sandra",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 5,
+      "Slots": {
+        "neck": "MN_S1_Midnight Falls (L\u0027ura)_AmulettderabyssischenHymne_LFR",
+        "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "trinket1": "MN_S1_Crown of the Cosmos_StoffbanddesRaumg\u00E4ngers_LFR",
+        "trinket2": "MN_S1_Vaelgor \u0026 Ezzorak_VaelgorsletztesStarren_LFR",
+        "weapon": "MN_S1_Belo\u0027ren, the Void Phoenix_Belomelorn,diezerschmetterteKralle_LFR",
+        "offhand": "MN_S1_Chimaerus, the Undreamt God_Foliantderalnverschm\u00E4htenReue_LFR"
+      }
+    },
+    {
+      "RaiderName": "Tavalian|Jaru",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 4,
+      "Slots": {
+        "neck": "MN_S1_Midnight Falls (L\u0027ura)_AmulettderabyssischenHymne_LFR",
+        "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "ring2": "MN_S1_Belo\u0027ren, the Void Phoenix_HoffnungsbandderSindorei_LFR",
+        "trinket1": "MN_S1_Crown of the Cosmos_StoffbanddesRaumg\u00E4ngers_LFR",
+        "trinket2": "MN_S1_Vaelgor \u0026 Ezzorak_VaelgorsletztesStarren_LFR",
+        "weapon": "MN_S1_Belo\u0027ren, the Void Phoenix_Belomelorn,diezerschmetterteKralle_LFR",
+        "offhand": "MN_S1_Chimaerus, the Undreamt God_Foliantderalnverschm\u00E4htenReue_LFR"
+      }
+    },
+    {
+      "RaiderName": "Nyphai|Silke",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 1,
+      "Slots": {
+        "neck": "MN_S1_Fallen-King Salhadaar_BanddergewundenenBosheit_LFR",
+        "ring1": "MN_S1_Belo\u0027ren, the Void Phoenix_HoffnungsbandderSindorei_LFR",
+        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
+        "trinket2": "MN_S1_Lightblinded Vanguard_LitaneideslichtblindenZorns_LFR",
+        "weapon": "MN_S1_Imperator Averzian_GewichtdesKommandos_LFR"
+      }
+    },
+    {
+      "RaiderName": "Lounashi|Lena",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 2,
+      "Slots": {
+        "neck": "MN_S1_Fallen-King Salhadaar_BanddergewundenenBosheit_LFR",
+        "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "ring2": "MN_S1_Belo\u0027ren, the Void Phoenix_HoffnungsbandderSindorei_LFR",
+        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
+        "trinket2": "MN_S1_Crown of the Cosmos_StoffbanddesRaumg\u00E4ngers_LFR",
+        "weapon": "MN_S1_Imperator Averzian_GewichtdesKommandos_LFR"
+      }
+    },
+    {
+      "RaiderName": "Rheyofglory|Nils",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 5,
+      "Slots": {
+        "neck": "MN_S1_Midnight Falls (L\u0027ura)_AmulettderabyssischenHymne_LFR",
+        "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "ring2": "MN_S1_Belo\u0027ren, the Void Phoenix_HoffnungsbandderSindorei_LFR",
+        "trinket1": "MN_S1_Vaelgor \u0026 Ezzorak_VaelgorsletztesStarren_LFR",
+        "trinket2": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR"
+      }
+    },
+    {
+      "RaiderName": "Kazaal|Torsten",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 4,
+      "Slots": {
+        "neck": "MN_S1_Midnight Falls (L\u0027ura)_AmulettderabyssischenHymne_LFR",
+        "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "ring2": "MN_S1_Lightblinded Vanguard_BunddesLichts_LFR",
+        "trinket1": "MN_S1_Belo\u0027ren, the Void Phoenix_StrahlendeFeder_LFR",
+        "trinket2": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
+        "ranged": "MN_S1_Imperator Averzian_Sonnenhiebgewehr_LFR"
+      }
+    },
+    {
+      "RaiderName": "Punanidk|Micha",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 4,
+      "Slots": {
+        "ring1": "MN_S1_Vorasius_SignetderhungerndenBestie_LFR",
+        "ring2": "MN_S1_Belo\u0027ren, the Void Phoenix_HoffnungsbandderSindorei_LFR",
+        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
+        "trinket2": "MN_S1_Imperator Averzian_StandartederKompaniedesLichts_LFR",
+        "weapon": "MN_S1_Lightblinded Vanguard_BellamysletztesUrteil_LFR"
+      }
+    },
+    {
+      "RaiderName": "Bubblebather|Andreas",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 4,
+      "Slots": {
+        "neck": "MN_S1_Midnight Falls (L\u0027ura)_AmulettderabyssischenHymne_LFR",
+        "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "ring2": "MN_S1_Belo\u0027ren, the Void Phoenix_HoffnungsbandderSindorei_LFR",
+        "trinket1": "MN_S1_Vaelgor \u0026 Ezzorak_VaelgorsletztesStarren_LFR",
+        "trinket2": "MN_S1_Belo\u0027ren, the Void Phoenix_StrahlendeFeder_LFR",
+        "weapon": "MN_S1_Lightblinded Vanguard_BellamysletztesUrteil_LFR"
+      }
+    },
+    {
+      "RaiderName": "Rayzer",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 5,
+      "Slots": {
+        "neck": "MN_S1_Crown of the Cosmos_EwigeLeerenliedkette_LFR",
+        "trinket1": "MN_S1_Imperator Averzian_StandartederKompaniedesLichts_LFR",
+        "trinket2": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR"
+      }
+    },
+    {
+      "RaiderName": "Ginn|Timo",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 0,
+      "Slots": {
+        "neck": "MN_S1_Crown of the Cosmos_EwigeLeerenliedkette_LFR",
+        "ring1": "MN_S1_Lightblinded Vanguard_BunddesLichts_LFR",
+        "ring2": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
+        "trinket2": "MN_S1_Vaelgor \u0026 Ezzorak_VaelgorsletztesStarren_LFR"
+      }
+    },
+    {
+      "RaiderName": "Sepdot|Sebi",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 4,
+      "Slots": {
+        "neck": "MN_S1_Crown of the Cosmos_EwigeLeerenliedkette_LFR",
+        "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
+        "weapon": "MN_S1_Belo\u0027ren, the Void Phoenix_Belomelorn,diezerschmetterteKralle_LFR"
+      }
+    },
+    {
+      "RaiderName": "Edilisp|Eddie",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 3,
+      "Slots": {
+        "neck": "MN_S1_Crown of the Cosmos_EwigeLeerenliedkette_LFR",
+        "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "ring2": "MN_S1_Lightblinded Vanguard_BunddesLichts_LFR",
+        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
+        "trinket2": "MN_S1_Vaelgor \u0026 Ezzorak_VaelgorsletztesStarren_LFR",
+        "weapon": "MN_S1_Midnight Falls (L\u0027ura)_KohlenpfannedesdissonantenKlagelieds_LFR"
+      }
+    },
+    {
+      "RaiderName": "Aloel|Ante",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 4,
+      "Slots": {
+        "neck": "MN_S1_Midnight Falls (L\u0027ura)_AmulettderabyssischenHymne_LFR",
+        "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "ring2": "MN_S1_Belo\u0027ren, the Void Phoenix_HoffnungsbandderSindorei_LFR",
+        "trinket1": "MN_S1_Vaelgor \u0026 Ezzorak_VaelgorsletztesStarren_LFR",
+        "trinket2": "MN_S1_Crown of the Cosmos_StoffbanddesRaumg\u00E4ngers_LFR",
+        "weapon": "MN_S1_Belo\u0027ren, the Void Phoenix_Belomelorn,diezerschmetterteKralle_LFR"
+      }
+    },
+    {
+      "RaiderName": "Waronita|Jasmin",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 2,
+      "Slots": {
+        "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
+        "trinket2": "MN_S1_Midnight Falls (L\u0027ura)_SchattendeshimmlischenRequiems_LFR"
+      }
+    },
+    {
+      "RaiderName": "Tevash|Paddy",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 0,
+      "Slots": {
+        "neck": "MN_S1_Crown of the Cosmos_EwigeLeerenliedkette_LFR",
+        "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
+        "trinket2": "MN_S1_Vaelgor \u0026 Ezzorak_VaelgorsletztesStarren_LFR",
+        "weapon": "MN_S1_Lightblinded Vanguard_KlingedesblindenUrteils_LFR"
+      }
+    },
+    {
+      "RaiderName": "Adoriel|Bj\u00F6rn",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 4,
+      "Slots": {
+        "neck": "MN_S1_Midnight Falls (L\u0027ura)_AmulettderabyssischenHymne_LFR",
+        "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "ring2": "MN_S1_Belo\u0027ren, the Void Phoenix_HoffnungsbandderSindorei_LFR",
+        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
+        "weapon": "MN_S1_Belo\u0027ren, the Void Phoenix_Belomelorn,diezerschmetterteKralle_LFR",
+        "weapon2": "MN_S1_Midnight Falls (L\u0027ura)_KohlenpfannedesdissonantenKlagelieds_LFR"
+      }
+    },
+    {
+      "RaiderName": "Halvor|Sven",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 4,
+      "Slots": {
+        "neck": "MN_S1_Midnight Falls (L\u0027ura)_AmulettderabyssischenHymne_LFR",
+        "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
+        "trinket2": "MN_S1_Vorasius_HerzdesuraltenHungers_LFR",
+        "weapon": "MN_S1_Lightblinded Vanguard_BellamysletztesUrteil_LFR"
+      }
+    },
+    {
+      "RaiderName": "Flamie",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 3,
+      "Slots": {
+        "neck": "MN_S1_Midnight Falls (L\u0027ura)_AmulettderabyssischenHymne_LFR",
+        "ring1": "MN_S1_Belo\u0027ren, the Void Phoenix_HoffnungsbandderSindorei_LFR",
+        "ring2": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
+        "trinket2": "MN_S1_Belo\u0027ren, the Void Phoenix_StrahlendeFeder_LFR",
+        "weapon": "MN_S1_Lightblinded Vanguard_BellamysletztesUrteil_LFR"
+      }
+    },
+    {
+      "RaiderName": "Heffertonne|Jan",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 4,
+      "Slots": {
+        "neck": "MN_S1_Midnight Falls (L\u0027ura)_AmulettderabyssischenHymne_LFR",
+        "ring1": "MN_S1_Belo\u0027ren, the Void Phoenix_HoffnungsbandderSindorei_LFR",
+        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR"
+      }
+    },
+    {
+      "RaiderName": "Narachas|Patrick",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 4,
+      "Slots": {
+        "neck": "MN_S1_Midnight Falls (L\u0027ura)_AmulettderabyssischenHymne_LFR",
+        "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "ring2": "MN_S1_Belo\u0027ren, the Void Phoenix_HoffnungsbandderSindorei_LFR",
+        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
+        "trinket2": "MN_S1_Vaelgor \u0026 Ezzorak_VaelgorsletztesStarren_LFR"
+      }
+    },
+    {
+      "RaiderName": "Rachelle|Vanessa",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 2,
+      "Slots": {
+        "neck": "MN_S1_Crown of the Cosmos_EwigeLeerenliedkette_LFR",
+        "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
+        "trinket2": "MN_S1_Vaelgor \u0026 Ezzorak_VaelgorsletztesStarren_LFR",
+        "weapon": "MN_S1_Belo\u0027ren, the Void Phoenix_Belomelorn,diezerschmetterteKralle_LFR"
+      }
+    },
+    {
+      "RaiderName": "Alery|Andi",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 1,
+      "Slots": {
+        "neck": "MN_S1_Fallen-King Salhadaar_BanddergewundenenBosheit_LFR",
+        "ring1": "MN_S1_Vorasius_SignetderhungerndenBestie_LFR",
+        "ring2": "MN_S1_Belo\u0027ren, the Void Phoenix_HoffnungsbandderSindorei_LFR",
+        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
+        "trinket2": "MN_S1_Belo\u0027ren, the Void Phoenix_StrahlendeFeder_LFR",
+        "ranged": "MN_S1_Crown of the Cosmos_T\u00F6dlicherDoppelbogendesWaldl\u00E4uferhauptmanns_LFR"
+      }
+    },
+    {
+      "RaiderName": "Trevoun|Thomas",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 5,
+      "Slots": {
+        "neck": "MN_S1_Crown of the Cosmos_EwigeLeerenliedkette_LFR",
+        "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
+        "trinket2": "MN_S1_Crown of the Cosmos_StoffbanddesRaumg\u00E4ngers_LFR"
+      }
+    },
+    {
+      "RaiderName": "Tukya|Danny",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 4,
+      "Slots": {
+        "neck": "MN_S1_Midnight Falls (L\u0027ura)_AmulettderabyssischenHymne_LFR",
+        "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
+        "weapon": "MN_S1_Vaelgor \u0026 Ezzorak_LiebkosungderNestgef\u00E4hrten_LFR"
+      }
+    },
+    {
+      "RaiderName": "Onionjack|Sarah",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 4,
+      "Slots": {
+        "neck": "MN_S1_Midnight Falls (L\u0027ura)_AmulettderabyssischenHymne_LFR",
+        "ring1": "MN_S1_Belo\u0027ren, the Void Phoenix_HoffnungsbandderSindorei_LFR",
+        "ring2": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "trinket1": "MN_S1_Belo\u0027ren, the Void Phoenix_StrahlendeFeder_LFR",
+        "weapon": "MN_S1_Lightblinded Vanguard_BellamysletztesUrteil_LFR"
+      }
+    },
+    {
+      "RaiderName": "Whitetequila|Ron",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 4,
+      "Slots": {
+        "neck": "MN_S1_Midnight Falls (L\u0027ura)_AmulettderabyssischenHymne_LFR",
+        "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR"
+      }
+    },
+    {
+      "RaiderName": "Buffbrak|Markus",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 4,
+      "Slots": {
+        "neck": "MN_S1_Midnight Falls (L\u0027ura)_AmulettderabyssischenHymne_LFR",
+        "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "ring2": "MN_S1_Belo\u0027ren, the Void Phoenix_HoffnungsbandderSindorei_LFR",
+        "trinket1": "MN_S1_Vaelgor \u0026 Ezzorak_VaelgorsletztesStarren_LFR",
+        "trinket2": "MN_S1_Crown of the Cosmos_StoffbanddesRaumg\u00E4ngers_LFR",
+        "weapon": "MN_S1_Belo\u0027ren, the Void Phoenix_Belomelorn,diezerschmetterteKralle_LFR"
+      }
+    },
+    {
+      "RaiderName": "Ginn|Pala",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 5,
+      "Slots": {
+        "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "trinket1": "MN_S1_Belo\u0027ren, the Void Phoenix_Umbralfeder_LFR",
+        "trinket2": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
+        "weapon": "MN_S1_Crown of the Cosmos_TuralyonsfalschesEcho_LFR"
+      }
+    },
+    {
+      "RaiderName": "Xavon|Lucas",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 3,
+      "Slots": {}
+    },
+    {
+      "RaiderName": "Easy|Andi",
+      "RaidKey": "MN_S1",
+      "SetTokenCount": 5,
+      "Slots": {
+        "ring1": "MN_S1_Belo\u0027ren, the Void Phoenix_HoffnungsbandderSindorei_LFR",
+        "trinket1": "MN_S1_Belo\u0027ren, the Void Phoenix_Umbralfeder_LFR",
+        "trinket2": "MN_S1_Belo\u0027ren, the Void Phoenix_StrahlendeFeder_LFR"
+      }
+    },
+    {
+      "RaiderName": "Dulgrim",
+      "RaidKey": "",
+      "SetTokenCount": 1,
+      "Slots": {}
+    }
+  ]
+}
