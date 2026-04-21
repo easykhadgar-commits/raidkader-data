@@ -1239,8 +1239,8 @@
     "ItemLevelLog": 78.2,
     "LogBerechnet": 81.35,
     "Anwesenheit": 1,
-    "Engagement": 0.8,
-    "LootRank": 65,
+    "Engagement": 1,
+    "LootRank": 81,
     "Rank": "Raider",
     "LootHistory": [
       {
@@ -4433,7 +4433,7 @@
     "IsSchichtler": false,
     "IsMythicCore": true,
     "Role": 3,
-    "IsSelectedForRaid": false,
+    "IsSelectedForRaid": true,
     "ActiveSpec": "Unholy",
     "AvailableSpecs": [
       "Unholy",
