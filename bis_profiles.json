@@ -44,7 +44,7 @@
         "neck": "MN_S1_Midnight Falls (L\u0027ura)_AmulettderabyssischenHymne_LFR",
         "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
         "trinket1": "MN_S1_Crown of the Cosmos_StoffbanddesRaumg\u00E4ngers_LFR",
-        "trinket2": "MN_S1_Vaelgor \u0026 Ezzorak_VaelgorsletztesStarren_LFR",
+        "trinket2": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
         "weapon": "MN_S1_Belo\u0027ren, the Void Phoenix_Belomelorn,diezerschmetterteKralle_LFR",
         "offhand": "MN_S1_Chimaerus, the Undreamt God_Foliantderalnverschm\u00E4htenReue_LFR"
       }
@@ -70,8 +70,8 @@
       "Slots": {
         "neck": "MN_S1_Fallen-King Salhadaar_BanddergewundenenBosheit_LFR",
         "ring1": "MN_S1_Belo\u0027ren, the Void Phoenix_HoffnungsbandderSindorei_LFR",
-        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR",
-        "trinket2": "MN_S1_Lightblinded Vanguard_LitaneideslichtblindenZorns_LFR",
+        "trinket1": "MN_S1_Midnight Falls (L\u0027ura)_LichtdeskosmischenCrescendo_LFR",
+        "trinket2": "MN_S1_Crown of the Cosmos_StoffbanddesRaumg\u00E4ngers_LFR",
         "weapon": "MN_S1_Imperator Averzian_GewichtdesKommandos_LFR"
       }
     },
@@ -263,8 +263,8 @@
       "SetTokenCount": 4,
       "Slots": {
         "neck": "MN_S1_Midnight Falls (L\u0027ura)_AmulettderabyssischenHymne_LFR",
-        "ring1": "MN_S1_Belo\u0027ren, the Void Phoenix_HoffnungsbandderSindorei_LFR",
-        "trinket1": "MN_S1_Chimaerus, the Undreamt God_BlickdesAlnsehers_LFR"
+        "ring1": "MN_S1_Midnight Falls (L\u0027ura)_AugederMitternacht_LFR",
+        "trinket1": "MN_S1_Vaelgor \u0026 Ezzorak_VaelgorsletztesStarren_LFR"
       }
     },
     {
@@ -389,7 +389,7 @@
       }
     },
     {
-      "RaiderName": "Dulgrim",
+      "RaiderName": "Pawchelor",
       "RaidKey": "",
       "SetTokenCount": 1,
       "Slots": {}
