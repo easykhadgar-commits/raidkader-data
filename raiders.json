@@ -411,7 +411,7 @@
     "IsSchichtler": false,
     "IsMythicCore": true,
     "Role": 2,
-    "IsSelectedForRaid": false,
+    "IsSelectedForRaid": true,
     "ActiveSpec": "Dev",
     "AvailableSpecs": [
       "Dev",
@@ -892,7 +892,7 @@
     "IsSchichtler": false,
     "IsMythicCore": true,
     "Role": 2,
-    "IsSelectedForRaid": false,
+    "IsSelectedForRaid": true,
     "ActiveSpec": "Marksman",
     "AvailableSpecs": [
       "Marksman",
@@ -1216,7 +1216,7 @@
     "IsSchichtler": false,
     "IsMythicCore": true,
     "Role": 2,
-    "IsSelectedForRaid": false,
+    "IsSelectedForRaid": true,
     "ActiveSpec": "Marksman",
     "AvailableSpecs": [
       "Marksman",
@@ -1239,8 +1239,8 @@
     "ItemLevelLog": 78.2,
     "LogBerechnet": 81.35,
     "Anwesenheit": 1,
-    "Engagement": 1,
-    "LootRank": 81,
+    "Engagement": 0.8,
+    "LootRank": 65,
     "Rank": "Raider",
     "LootHistory": [
       {
@@ -1514,7 +1514,7 @@
     "IsSchichtler": false,
     "IsMythicCore": true,
     "Role": 1,
-    "IsSelectedForRaid": false,
+    "IsSelectedForRaid": true,
     "ActiveSpec": "Holy",
     "AvailableSpecs": [
       "Holy",
@@ -3461,9 +3461,9 @@
     "Log": 65.5,
     "ItemLevelLog": 65.3,
     "LogBerechnet": 65.4,
-    "Anwesenheit": 0.8,
+    "Anwesenheit": 1,
     "Engagement": 1,
-    "LootRank": 52,
+    "LootRank": 65,
     "Rank": "Mitglied",
     "LootHistory": [
       {
@@ -3554,7 +3554,7 @@
     "IsSchichtler": false,
     "IsMythicCore": true,
     "Role": 2,
-    "IsSelectedForRaid": false,
+    "IsSelectedForRaid": true,
     "ActiveSpec": "Dev",
     "AvailableSpecs": [
       "Dev",
@@ -3709,7 +3709,7 @@
     "IsSchichtler": false,
     "IsMythicCore": true,
     "Role": 0,
-    "IsSelectedForRaid": false,
+    "IsSelectedForRaid": true,
     "ActiveSpec": "Prot",
     "AvailableSpecs": [
       "Prot",
